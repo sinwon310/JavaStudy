@@ -9,7 +9,7 @@ public class Student211 {
 		
 		this.studentID = i;
 		this.name = n;
-		System.out.println(studentID+" "+name);
+		System.out.println(studentID+","+name);
 	}
 
 }
